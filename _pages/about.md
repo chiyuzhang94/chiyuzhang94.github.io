@@ -14,6 +14,8 @@ I am currently a sencond-year Ph.D. student at [School of Information](https://s
 I obatain my M.Sc degree of Data Analytics at Clarkson University under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Management Information System from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of Dr. Yihui Qiu. 
 
 # Publications:
+* Abdul-Mageed, M., Zhang, C., Hashemi, A., & Nagoudi, E. M. B. (2019). AraNet: A Deep Learning Toolkit for Arabic Social Media. arXiv preprint arXiv:1912.13072.
+
 * Abdul-Mageed, M., Zhang, C., Rajendran, A., Elmadany, A., Przystupa, M., & Ungar, L. (2019). Sentence-Level BERT and Multi-Task Learning of Age and Gender in Social Media. arXiv preprint arXiv:1911.00637.
 
 * Abdul-Mageed, M., Zhang, C., Elmadany, A., Rajendran, A., & Ungar, L. (2019). DiaNet: BERT and Hierarchical Attention Multi-Task Learning of Fine-Grained Dialect. arXiv preprint arXiv:1910.14243.
