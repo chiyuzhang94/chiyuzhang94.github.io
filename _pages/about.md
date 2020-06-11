@@ -9,9 +9,9 @@ redirect_from:
 ---
 Welcome to my website!
 
-I am currently a sencond-year Ph.D. student at [School of Information](https://slais.ubc.ca/), The University of British Columbia. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research are natural language with deep learning and social media mining. 
+I am currently a second-year Ph.D. student at [School of Information](https://slais.ubc.ca/), The University of British Columbia. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research are natural language with deep learning and social media mining. 
 
-I obatain my M.Sc degree of Data Analytics at Clarkson University under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Management Information System from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of Dr. Yihui Qiu. 
+I obtained my M.Sc degree of Data Analytics at Clarkson University under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Management Information System from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of Dr. Yihui Qiu. 
 
 # Publications:
 * Abdul-Mageed, M., Zhang, C., Hashemi, A., & Nagoudi, E. M. B. (2019). AraNet: A Deep Learning Toolkit for Arabic Social Media. arXiv preprint arXiv:1912.13072.
