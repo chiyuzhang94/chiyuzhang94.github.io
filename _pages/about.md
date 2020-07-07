@@ -35,4 +35,8 @@ I obtained my M.Sc degree of Data Analytics at Clarkson University under the sup
 * Rajendran, A., Zhang, C., & Abdul-Mageed, M. (2019, June). UBC-NLP at SemEval-2019 Task
 6: Ensemble Learning of Offensive Content with Enhanced Training Data. In Proceedings of the 13th International Workshop on Semantic Evaluation (pp. 775-781), Minneapolis, Minnesota,USA. Association for Computational Linguistics.
 
+* Qiu, Y., & Zhang, C.. (2018, September). Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment. IPPTA: Quarterly Journal ofIndian Pulp and Paper Technical Association, 30(3), 300-308
+
+* Qiu, Yihui., Zhang, Chiyu, & Shuixuan, C. (2017, March). Research of Patent-value Assessment Indicator SystemBased on Classification and Regression Tree Algorithm. Journal of Xiamen University (Natural Science)(2),244-251.
+
 * Yihui, Q., & Chiyu, Z. (2016, August). Research of indicator system in customer churn prediction for telecom industry. In 2016 11th International Conference on Computer Science & Education (ICCSE) (pp. 123-130). IEEE.
