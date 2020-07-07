@@ -14,7 +14,9 @@ I am currently a second-year Ph.D. student at [School of Information](https://sl
 I obtained my M.Sc degree of Data Analytics at Clarkson University under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Management Information System from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of Dr. Yihui Qiu. 
 
 # Publications:
-* Abdul-Mageed, M., Zhang, C., Hashemi, A., & Nagoudi, E. M. B. (2019). AraNet: A Deep Learning Toolkit for Arabic Social Media. arXiv preprint arXiv:1912.13072.
+* Elmadany, A., Zhang, C., Abdul-Mageed, M., & Hashemi, A. (2020, May). Leveraging Affective Bidirectional Transformers for Offensive Language Detection. In Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, with a Shared Task on Offensive Language Detection (pp. 102-108).
+
+* Abdul-Mageed, M., Zhang, C., & Hashemi, A. (2020, May). AraNet: A Deep Learning Toolkit for Arabic Social Media. In Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, with a Shared Task on Offensive Language Detection (pp. 16-23).
 
 * Abdul-Mageed, M., Zhang, C., Rajendran, A., Elmadany, A., Przystupa, M., & Ungar, L. (2019). Sentence-Level BERT and Multi-Task Learning of Age and Gender in Social Media. arXiv preprint arXiv:1911.00637.
 
