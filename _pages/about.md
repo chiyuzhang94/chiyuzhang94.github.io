@@ -43,6 +43,6 @@ I obtained my M.Sc degree of Data Analytics at Clarkson University under the sup
 
 * Qiu, Y., & **Zhang, C.**. (2018, September). Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment. IPPTA: Quarterly Journal ofIndian Pulp and Paper Technical Association, 30(3), 300-308
 
-* Qiu, Yihui., Zhang, Chiyu, & Shuixuan, C. (2017, March). Research of Patent-value Assessment Indicator SystemBased on Classification and Regression Tree Algorithm. Journal of Xiamen University (Natural Science)(2),244-251.
+* Qiu, Yihui., **Zhang, C.**, & Shuixuan, C. (2017, March). Research of Patent-value Assessment Indicator SystemBased on Classification and Regression Tree Algorithm. Journal of Xiamen University (Natural Science)(2),244-251.
 
-* Yihui, Q., & Chiyu, Z. (2016, August). Research of indicator system in customer churn prediction for telecom industry. In 2016 11th International Conference on Computer Science & Education (ICCSE) (pp. 123-130). IEEE.
+* Qiu, Yihui., & **Zhang, C.** (2016, August). Research of indicator system in customer churn prediction for telecom industry. In 2016 11th International Conference on Computer Science & Education (ICCSE) (pp. 123-130). IEEE.
