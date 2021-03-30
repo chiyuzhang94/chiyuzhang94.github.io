@@ -14,6 +14,12 @@ I am currently a second-year Ph.D. student at [School of Information](https://sl
 I obtained my M.Sc degree of Data Analytics at Clarkson University under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Management Information System from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of Dr. Yihui Qiu. 
 
 # Publications:
+* Abdul-Mageed, M., Zhang, C., Elmadany, A., Bouamor, H., & Habash, N. (2021). NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task. arXiv preprint arXiv:2103.08466.
+
+* Abdul-Mageed, M., Zhang, C., Bouamor, H., & Habash, N. (2020, December). NADI 2020: The First Nuanced Arabic Dialect Identification Shared Task. In Proceedings of the Fifth Arabic Natural Language Processing Workshop (pp. 97-110).
+
+* Abdul-Mageed, M., Zhang, C., Elmadany, A., & Ungar, L. (2020). Toward micro-dialect identification in diaglossic and code-switched environments. arXiv preprint arXiv:2010.04900.
+
 * Elmadany, A., Zhang, C., Abdul-Mageed, M., & Hashemi, A. (2020, May). Leveraging Affective Bidirectional Transformers for Offensive Language Detection. In Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, with a Shared Task on Offensive Language Detection (pp. 102-108).
 
 * Abdul-Mageed, M., Zhang, C., & Hashemi, A. (2020, May). AraNet: A Deep Learning Toolkit for Arabic Social Media. In Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, with a Shared Task on Offensive Language Detection (pp. 16-23).
