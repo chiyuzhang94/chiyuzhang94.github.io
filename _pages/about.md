@@ -9,11 +9,13 @@ redirect_from:
 ---
 Welcome to my website!
 
-I am currently a third-year Ph.D. student at [School of Information](https://ischool.ubc.ca/), University of British Columbia. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research are natural language with deep learning and social media mining. 
+I am currently a fourth-year Ph.D. student at [School of Information](https://ischool.ubc.ca/), University of British Columbia. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research are natural language with deep learning and social media mining. 
 
 I obtained my M.Sc degree of Data Analytics at Clarkson University under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Management Information System from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of Dr. Yihui Qiu. 
 
 # Publications:
+* **Zhang, C.**, Abdul-Mageed, M., Elmadany, A., & Nagoudi, E. M. B. (2021). Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning. arXiv preprint arXiv:2108.00356.
+
 * Abdul-Mageed, M., **Zhang, C.**, Elmadany, A., Bouamor, H., & Habash, N. (2021). NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task. arXiv preprint arXiv:2103.08466.
 
 * Abdul-Mageed, M., **Zhang, C.**, Bouamor, H., & Habash, N. (2020, December). NADI 2020: The First Nuanced Arabic Dialect Identification Shared Task. In Proceedings of the Fifth Arabic Natural Language Processing Workshop (pp. 97-110).
