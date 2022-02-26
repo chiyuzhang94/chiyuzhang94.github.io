@@ -9,9 +9,9 @@ redirect_from:
 ---
 Welcome to my website!
 
-I am currently a fourth-year Ph.D. student at [School of Information](https://ischool.ubc.ca/), University of British Columbia. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research are natural language with deep learning and social media mining. 
+I am currently a fourth-year Ph.D. student at [School of Information](https://ischool.ubc.ca/), University of British Columbia. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research are natural language processing, deep learning, and social media mining. 
 
-I obtained my M.Sc degree of Data Analytics at Clarkson University under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Management Information System from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of Dr. Yihui Qiu. 
+I obtained my M.Sc degree of Data Science at Clarkson University under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Information Systems from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of Dr. Yihui Qiu. 
 
 # Publications:
 * **Zhang, C.**, Abdul-Mageed, M., Elmadany, A., & Nagoudi, E. M. B. (2021). Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning. arXiv preprint arXiv:2108.00356.
