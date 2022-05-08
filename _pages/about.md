@@ -14,7 +14,11 @@ I am currently a fourth-year Ph.D. student at [School of Information](https://is
 I obtained my M.Sc degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Information Systems from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
 
 # Publications:
-* **Zhang, C.**, Abdul-Mageed, M., Elmadany, A., & Nagoudi, E. M. B. (2021). Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning. arXiv preprint arXiv:2108.00356.
+* **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2022). [InfoDCL: A Distantly Supervised Contrastive Learning Framework for Social Meaning](https://arxiv.org/abs/2203.07648). arXiv preprint arXiv:2203.07648.
+
+* **Zhang, C.**, Abdul-Mageed, M., & Nagoudi, E. M. B. (2022). Decay No More: A Persistent Twitter Dataset for Learning Social Meaning. In Proceedings of the 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS). AAAI.
+
+* **Zhang, C.**, & Abdul-Mageed, M. (2022). Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning. In Proceedings of 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis. ACL
 
 * Abdul-Mageed, M., **Zhang, C.**, Elmadany, A., Bouamor, H., & Habash, N. (2021). NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task. arXiv preprint arXiv:2103.08466.
 
