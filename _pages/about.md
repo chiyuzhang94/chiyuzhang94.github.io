@@ -7,13 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website!
+# Welcome to my website!
 
 I am currently a fourth-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. 
 
-I obtained my M.Sc degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Information Systems from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
+I obtained my M.Sc degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
 
-# Publications:
+## Awards:
+* Affiliated Fellowship (2021-2022), UBC. 
+* President's Academic Excellence Initiative Ph.D. Award (2020-2022), UBC.
+* Evelyn Markwei Memorial Award (2020-2021), UBC.
+* Ph.D. Travel Award of School of Information (2019 and 2021), UBC. 
+* Graduate Scholarship of School of Information (2018-2022), UBC. 
+* Graduate Scholarship (2016-2017), Clarkson University, USA.
+* Honours with high distinction (2016), Xiamen University of Technology, China.
+* Principal's Scholarship (2015), Xiamen University of Technology, China.
+
+## Publications:
 * **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2022). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). arXiv preprint arXiv:2203.07648.
 
 * **Zhang, C.**, Abdul-Mageed, M., & Nagoudi, E. M. B. (2022). [Decay No More: A Persistent Twitter Dataset for Learning Social Meaning](https://arxiv.org/pdf/2204.04611.pdf). In Proceedings of the 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS). AAAI. [Code](https://github.com/chiyuzhang94/PTSM)
