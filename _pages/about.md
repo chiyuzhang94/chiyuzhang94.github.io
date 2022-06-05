@@ -42,7 +42,7 @@ I obtained my M.Sc degree of Data Science at [Clarkson University](https://www.c
 
 * **Zhang, C.**, & Abdul-Mageed, M. (2019, August). [No Army, No Navy: BERT Semi-Supervised Learning of Arabic Dialects](https://aclanthology.org/W19-4637.pdf). In Proceedings of the Fourth Arabic Natural Language Processing Workshop, pages 279–284, Florence, Italy. ACL. (Best System Paper) [Code](https://github.com/chiyuzhang94/UBCNLP-MADAR_2019)
 
-* **Zhang, C.**, Rajendran, A., & Abdul-Mageed, M. (2019, June). [UBC-NLP at SemEval-2019 Task4: Hyperpartisan News Detection with Attention-Based Bi-LSTMs](https://aclanthology.org/S19-2136/). In Proceedings of the 13th International Workshop on Semantic Evaluation, pages 775–781, Minneapolis, Minnesota, USA. ACL.
+* **Zhang, C.**, Rajendran, A., & Abdul-Mageed, M. (2019, June). [UBC-NLP at SemEval-2019 Task4: Hyperpartisan News Detection with Attention-Based Bi-LSTMs](https://aclanthology.org/S19-2136/). In Proceedings of the 13th International Workshop on Semantic Evaluation, pages 775–781, Minneapolis, Minnesota, USA. ACL. [Code](https://github.com/chiyuzhang94/SemEval-2019-Hyperpartisan)
 
 * Rajendran, A., **Zhang, C.**, & Abdul-Mageed, M. (2019, June). [UBC-NLP at SemEval-2019 Task
 6: Ensemble Learning of Offensive Content with Enhanced Training Data](https://aclanthology.org/S19-2136/). In Proceedings of the 13th International Workshop on Semantic Evaluation, pages 775–781, Minneapolis, Minnesota, USA. ACL.
