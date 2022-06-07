@@ -26,7 +26,7 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 ## Publications:
 * **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2022). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). arXiv preprint arXiv:2203.07648.
 
-* **Zhang, C.**, Abdul-Mageed, M., & Nagoudi, E. M. B. (2022). [Decay No More: A Persistent Twitter Dataset for Learning Social Meaning](https://arxiv.org/pdf/2204.04611.pdf). In Proceedings of the 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS). AAAI. [[Code](https://github.com/chiyuzhang94/PTSM)]
+* **Zhang, C.**, Abdul-Mageed, M., & Nagoudi, E. M. B. (2022). [Decay No More: A Persistent Twitter Dataset for Learning Social Meaning](https://arxiv.org/pdf/2204.04611.pdf). In Proceedings of the 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS). AAAI. **(Best Paper Award)** [[Code](https://github.com/chiyuzhang94/PTSM)]
 
 * **Zhang, C.**, & Abdul-Mageed, M. (2022). [Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning](https://arxiv.org/abs/2108.00356). IIn Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, pages 141–156, Dublin, Ireland. ACL. [[Code](https://github.com/chiyuzhang94/PMLM-SFT)]
 
@@ -50,14 +50,14 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 * **Zhang, C.**, & Abdul-Mageed, M. (2019, December). [Multi-Task Bidirectional Transformer Representations for Irony Detection](http://ceur-ws.org/Vol-2517/T4-2.pdf). In Proceedings of 11th meeting of the Forum for Information Retrieval Evaluation, Kolkata, India, December 12-15, 2019. CEUR-WS.org.
 
-* **Zhang, C.**, & Abdul-Mageed, M. (2019, August). [No Army, No Navy: BERT Semi-Supervised Learning of Arabic Dialects](https://aclanthology.org/W19-4637.pdf). In Proceedings of the Fourth Arabic Natural Language Processing Workshop, pages 279–284, Florence, Italy. ACL. (Best System Paper) [[Code](https://github.com/chiyuzhang94/UBCNLP-MADAR_2019)]
+* **Zhang, C.**, & Abdul-Mageed, M. (2019, August). [No Army, No Navy: BERT Semi-Supervised Learning of Arabic Dialects](https://aclanthology.org/W19-4637.pdf). In Proceedings of the Fourth Arabic Natural Language Processing Workshop, pages 279–284, Florence, Italy. ACL. **(Best System Paper)** [[Code](https://github.com/chiyuzhang94/UBCNLP-MADAR_2019)]
 
 * **Zhang, C.**, Rajendran, A., & Abdul-Mageed, M. (2019, June). [UBC-NLP at SemEval-2019 Task4: Hyperpartisan News Detection with Attention-Based Bi-LSTMs](https://aclanthology.org/S19-2136/). In Proceedings of the 13th International Workshop on Semantic Evaluation, pages 775–781, Minneapolis, Minnesota, USA. ACL. [[Code](https://github.com/chiyuzhang94/SemEval-2019-Hyperpartisan)]
 
 * Rajendran, A., **Zhang, C.**, & Abdul-Mageed, M. (2019, June). [UBC-NLP at SemEval-2019 Task
 6: Ensemble Learning of Offensive Content with Enhanced Training Data](https://aclanthology.org/S19-2136/). In Proceedings of the 13th International Workshop on Semantic Evaluation, pages 775–781, Minneapolis, Minnesota, USA. ACL.
 
-* Rajendran, A., **Zhang, C.**, & Abdul-Mageed, M. (2019, January). [Happy Together: Learning and Understanding Appraisal from Natural Language](http://ceur-ws.org/Vol-2328/2_paper_24.pdf). In Proceedings of the 2nd Workshop on Affective Content Analysis (AffCon 2019), Honolulu, USA, January 27, 2019. CEUR-WS.org. (Best System Paper)
+* Rajendran, A., **Zhang, C.**, & Abdul-Mageed, M. (2019, January). [Happy Together: Learning and Understanding Appraisal from Natural Language](http://ceur-ws.org/Vol-2328/2_paper_24.pdf). In Proceedings of the 2nd Workshop on Affective Content Analysis (AffCon 2019), Honolulu, USA, January 27, 2019. CEUR-WS.org. **(Best System Paper)**
 
 * \*Qiu, Y., & **\*Zhang, C.**. (2018, September). [Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment](https://arxiv.org/pdf/2001.08371.pdf). IPPTA: Quarterly Journal of Indian Pulp and Paper Technical Association, 30(3), 300-308
 
