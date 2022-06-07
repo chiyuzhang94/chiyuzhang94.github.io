@@ -59,8 +59,8 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 * Rajendran, A., **Zhang, C.**, & Abdul-Mageed, M. (2019, January). [Happy Together: Learning and Understanding Appraisal from Natural Language](http://ceur-ws.org/Vol-2328/2_paper_24.pdf). In Proceedings of the 2nd Workshop on Affective Content Analysis (AffCon 2019), Honolulu, USA, January 27, 2019. CEUR-WS.org. **(Best System Paper)**
 
-* \*Qiu, Y., & **\*Zhang, C.**. (2018, September). [Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment](https://arxiv.org/pdf/2001.08371.pdf). IPPTA: Quarterly Journal of Indian Pulp and Paper Technical Association, 30(3), 300-308
+* Qiu, Y., & **Zhang, C.\***. (2018, September). [Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment](https://arxiv.org/pdf/2001.08371.pdf). IPPTA: Quarterly Journal of Indian Pulp and Paper Technical Association, 30(3), 300-308
 
-* \*Qiu, Yihui., **\*Zhang, C.**, & Shuixuan, C. (2017, March). Research of Patent-value Assessment Indicator System Based on Classification and Regression Tree Algorithm. Journal of Xiamen University (Natural Science)(2), 244-251.
+* Qiu, Yihui.\*, **Zhang, C.\***, & Shuixuan, C. (2017, March). Research of Patent-value Assessment Indicator System Based on Classification and Regression Tree Algorithm. Journal of Xiamen University (Natural Science)(2), 244-251.
 
 * Qiu, Yihui., & **Zhang, C.** (2016, August). [Research of indicator system in customer churn prediction for telecom industry](https://www.researchgate.net/profile/Chiyu-Zhang-4/publication/323686017_Research_of_Indicator_System_in_Customer_Churn_Prediction_for_Telecom_Industry/links/5aa432cf0f7e9badd9a9af22/Research-of-Indicator-System-in-Customer-Churn-Prediction-for-Telecom-Industry.pdf). In 2016 11th International Conference on Computer Science & Education (ICCSE) (pp. 123-130). IEEE.
