@@ -32,7 +32,7 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 * Abdul-Mageed, M., **Zhang, C.**, Elmadany, A., Bouamor, H., & Habash, N. (2021). [NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task](https://aclanthology.org/2021.wanlp-1.28.pdf). In Proceedings of the Sixth Arabic Natural Language Processing Workshop, pages 244–259, Kyiv, Ukraine (Virtual). ACL. [[Data](https://github.com/UBC-NLP/nadi)]
 
-* Qiu, Y., Yang, X., Li, Z., **Zhang, Chiyu**, & Chen, S. (2021). Investigating the impacts of artificial intelligence technology on technological innovation from a patent perspective. Applied Mathematics and Nonlinear Sciences, 6(1), 129-140.
+* Qiu, Y., Yang, X., Li, Z., **Zhang, C.**, & Chen, S. (2021). Investigating the impacts of artificial intelligence technology on technological innovation from a patent perspective. Applied Mathematics and Nonlinear Sciences, 6(1), 129-140.
 
 * Abdul-Mageed, M., **Zhang, C.**, Bouamor, H., & Habash, N. (2020, December). [NADI 2020: The First Nuanced Arabic Dialect Identification Shared Task](https://aclanthology.org/2020.wanlp-1.9.pdf). In Proceedings of the Fifth Arabic Natural Language Processing Workshop, pages 97–110, Barcelona, Spain (Online). ACL. [[Data](https://github.com/UBC-NLP/nadi)]
 
@@ -59,8 +59,8 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 * Rajendran, A., **Zhang, C.**, & Abdul-Mageed, M. (2019, January). [Happy Together: Learning and Understanding Appraisal from Natural Language](http://ceur-ws.org/Vol-2328/2_paper_24.pdf). In Proceedings of the 2nd Workshop on Affective Content Analysis (AffCon 2019), Honolulu, USA, January 27, 2019. CEUR-WS.org. **(Best System Paper)**
 
-* Qiu, Y., & **Zhang, C.\***. (2018, September). [Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment](https://arxiv.org/pdf/2001.08371.pdf). IPPTA: Quarterly Journal of Indian Pulp and Paper Technical Association, 30(3), 300-308
+* Qiu, Y.\*, & **Zhang, C.\***. (2018, September). [Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment](https://arxiv.org/pdf/2001.08371.pdf). IPPTA: Quarterly Journal of Indian Pulp and Paper Technical Association, 30(3), 300-308
 
-* Qiu, Yihui.\*, **Zhang, C.\***, & Shuixuan, C. (2017, March). Research of Patent-value Assessment Indicator System Based on Classification and Regression Tree Algorithm. Journal of Xiamen University (Natural Science)(2), 244-251.
+* Qiu, Y.\*, **Zhang, C.\***, & Shuixuan, C. (2017, March). Research of Patent-value Assessment Indicator System Based on Classification and Regression Tree Algorithm. Journal of Xiamen University (Natural Science)(2), 244-251.
 
-* Qiu, Yihui., & **Zhang, C.** (2016, August). [Research of indicator system in customer churn prediction for telecom industry](https://www.researchgate.net/profile/Chiyu-Zhang-4/publication/323686017_Research_of_Indicator_System_in_Customer_Churn_Prediction_for_Telecom_Industry/links/5aa432cf0f7e9badd9a9af22/Research-of-Indicator-System-in-Customer-Churn-Prediction-for-Telecom-Industry.pdf). In 2016 11th International Conference on Computer Science & Education (ICCSE) (pp. 123-130). IEEE.
+* Qiu, Y., & **Zhang, C.** (2016, August). [Research of indicator system in customer churn prediction for telecom industry](https://www.researchgate.net/profile/Chiyu-Zhang-4/publication/323686017_Research_of_Indicator_System_in_Customer_Churn_Prediction_for_Telecom_Industry/links/5aa432cf0f7e9badd9a9af22/Research-of-Indicator-System-in-Customer-Churn-Prediction-for-Telecom-Industry.pdf). In 2016 11th International Conference on Computer Science & Education (ICCSE) (pp. 123-130). IEEE.
