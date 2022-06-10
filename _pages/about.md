@@ -26,7 +26,7 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 ## Publications:
 * **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2022). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). arXiv preprint arXiv:2203.07648.
 
-* **Zhang, C.**, Abdul-Mageed, M., & Nagoudi, E. M. B. (2022). [Decay No More: A Persistent Twitter Dataset for Learning Social Meaning](https://arxiv.org/pdf/2204.04611.pdf). In Proceedings of the 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS). AAAI. **(Best Paper Award)** [[Code](https://github.com/chiyuzhang94/PTSM)]
+* **Zhang, C.**, Abdul-Mageed, M., & Nagoudi, E. M. B. (2022). [Decay No More: A Persistent Twitter Dataset for Learning Social Meaning](https://arxiv.org/pdf/2204.04611.pdf). In Proceedings of the 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS). AAAI. **(Best Paper Award)** [[Data and Model](https://github.com/chiyuzhang94/PTSM)]
 
 * **Zhang, C.**, & Abdul-Mageed, M. (2022). [Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning](https://arxiv.org/abs/2108.00356). IIn Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, pages 141–156, Dublin, Ireland. ACL. [[Code](https://github.com/chiyuzhang94/PMLM-SFT)]
 
