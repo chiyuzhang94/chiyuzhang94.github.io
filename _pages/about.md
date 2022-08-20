@@ -14,17 +14,24 @@ I am currently a fourth-year Ph.D. Candidate at [School of Information](https://
 I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
 
 ## Awards:
-* Distinguished Teaching (2022), UBC
-* Affiliated Fellowship (2021-2022), UBC. 
-* President's Academic Excellence Initiative Ph.D. Award (2020-2022), UBC.
+* Distinguished Teaching (2022), UBC.
+* Tung Graduate Fellowship (2021-2023), UBC.
+* Affiliated Fellowship (2021-2023), UBC.
+* President's Academic Excellence Initiative Ph.D. Award (2020-2023), UBC.
 * Evelyn Markwei Memorial Award (2020-2021), UBC.
-* Ph.D. Travel Award of School of Information (2019 and 2021), UBC. 
-* Graduate Scholarship of School of Information (2018-2022), UBC. 
+* Ph.D. Travel Award of School of Information (2019 and 2021), UBC.
+* International Tuition Award (2018-2023), UBC.
+* Graduate Scholarship of School of Information (2018-2023), UBC. 
 * Graduate Scholarship (2016-2017), Clarkson University, USA.
 * Honours with high distinction (2016), Xiamen University of Technology, China.
 * Principal's Scholarship (2015), Xiamen University of Technology, China.
 
 ## Publications:
+
+* Laricheva, M., **Zhang, C.**, Liu, Y., Chen, G., Tracey, T., Young, R., & Carenini, G. (2022). [Automated Utterance Labeling of Conversations Using Natural Language Processing](https://arxiv.org/abs/2208.06525). In Proceedings of 15th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Pittsburgh, USA.
+
+* Liu, Y., Laricheva, M., **Zhang, C.**, Boutet, P., Chen, G., Tracey, T., Carenini, G., & Young, R. (2022). [Transition to Adulthood for Young People with Intellectual or Developmental Disabilities: Emotion Detection and Topic Modeling](). In Proceedings of 15th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Pittsburgh, USA.
+
 * **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2022). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). arXiv preprint arXiv:2203.07648.
 
 * **Zhang, C.**, Abdul-Mageed, M., & Nagoudi, E. M. B. (2022). [Decay No More: A Persistent Twitter Dataset for Learning Social Meaning](https://arxiv.org/pdf/2204.04611.pdf). In Proceedings of the 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS). AAAI Press. **(Best Paper Award)** [[Data and Model](https://github.com/chiyuzhang94/PTSM)]
