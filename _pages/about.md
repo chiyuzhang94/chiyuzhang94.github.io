@@ -28,15 +28,15 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 ## Publications:
 
-* Laricheva, M., **Zhang, C.**, Liu, Y., Chen, G., Tracey, T., Young, R., & Carenini, G. (2022). [Automated Utterance Labeling of Conversations Using Natural Language Processing](https://arxiv.org/abs/2208.06525). In Proceedings of 15th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Pittsburgh, USA.
-
-* Liu, Y., Laricheva, M., **Zhang, C.**, Boutet, P., Chen, G., Tracey, T., Carenini, G., & Young, R. (2022). [Transition to Adulthood for Young People with Intellectual or Developmental Disabilities: Emotion Detection and Topic Modeling](). In Proceedings of 15th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Pittsburgh, USA.
-
 * **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2022). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). arXiv preprint arXiv:2203.07648.
 
 * **Zhang, C.**, Abdul-Mageed, M., & Nagoudi, E. M. B. (2022). [Decay No More: A Persistent Twitter Dataset for Learning Social Meaning](https://arxiv.org/pdf/2204.04611.pdf). In Proceedings of the 1st Workshop on Novel Evaluation Approaches for Text Classification Systems on Social Media (NEATCLasS). AAAI Press. **(Best Paper Award)** [[Data and Model](https://github.com/chiyuzhang94/PTSM)]
 
 * **Zhang, C.**, & Abdul-Mageed, M. (2022). [Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning](https://arxiv.org/abs/2108.00356). IIn Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, pages 141–156, Dublin, Ireland. ACL. [[Code](https://github.com/chiyuzhang94/PMLM-SFT)]
+
+* Laricheva, M., **Zhang, C.**, Liu, Y., Chen, G., Tracey, T., Young, R., & Carenini, G. (2022). [Automated Utterance Labeling of Conversations Using Natural Language Processing](https://arxiv.org/abs/2208.06525). In Proceedings of 15th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Pittsburgh, USA.
+
+* Liu, Y., Laricheva, M., **Zhang, C.**, Boutet, P., Chen, G., Tracey, T., Carenini, G., & Young, R. (2022). [Transition to Adulthood for Young People with Intellectual or Developmental Disabilities: Emotion Detection and Topic Modeling](). In Proceedings of 15th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation, Pittsburgh, USA.
 
 * Abdul-Mageed, M., **Zhang, C.**, Elmadany, A., Bouamor, H., & Habash, N. (2021). [NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task](https://aclanthology.org/2021.wanlp-1.28.pdf). In Proceedings of the Sixth Arabic Natural Language Processing Workshop, pages 244–259, Kyiv, Ukraine (Virtual). ACL. [[Data](https://github.com/UBC-NLP/nadi)]
 
