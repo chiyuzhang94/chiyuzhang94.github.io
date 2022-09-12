@@ -15,8 +15,8 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 ## Awards:
 * Distinguished Teaching (2022), UBC.
-* Tung Graduate Fellowship (2021-2023), UBC.
-* Affiliated Fellowship (2021-2023), UBC.
+* Tung Graduate Fellowship (2021-2022), UBC.
+* Affiliated Fellowship (2021-2022), UBC.
 * President's Academic Excellence Initiative Ph.D. Award (2020-2023), UBC.
 * Evelyn Markwei Memorial Award (2020-2021), UBC.
 * Ph.D. Travel Award of School of Information (2019 and 2021), UBC.
