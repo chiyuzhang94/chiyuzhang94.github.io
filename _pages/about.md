@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Welcome to my website!
 
-I am currently a fourth-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I am currently a visiting Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. I was interning at [Borealis AI](https://www.borealisai.com/) as a Machine Learning Researcher. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
+I am currently a fourth-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I am currently a visiting Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. I interned at [Borealis AI](https://www.borealisai.com/) as a Machine Learning Researcher. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
 
 I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
 
