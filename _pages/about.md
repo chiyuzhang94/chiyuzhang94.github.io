@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Welcome to my website!
 
-I am currently a fourth-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I am currently a visiting Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. I interned at [Borealis AI](https://www.borealisai.com/) as a Machine Learning Researcher. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
+I am currently a fourth-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I am currently a visiting Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. I will join Google as a Research Intern this summer. I interned at [Borealis AI](https://www.borealisai.com/) as a Machine Learning Researcher before. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
 
 I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
 
@@ -27,6 +27,10 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 * Principal's Scholarship (2015), Xiamen University of Technology, China.
 
 ## Publications:
+
+* Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2023). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). arXiv preprint arXiv:2304.14402.
+
+* Abdul-Mageed, M., **Zhang, C.**, Elmadany, A., Bouamor, H., & Habash, N. (2022). [NADI 2022: The Third Nuanced Arabic Dialect Identification Shared Task](https://aclanthology.org/2022.wanlp-1.9/). In Proceedings of the Seventh Arabic Natural Language Processing Workshop, pages 85–97, Abu Dhabi. ACL. [[Data](https://nadi.dlnlp.ai/2022/)]
 
 * **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2022). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). arXiv preprint arXiv:2203.07648.
 
@@ -67,7 +71,7 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 * Rajendran, A., **Zhang, C.**, & Abdul-Mageed, M. (2019, January). [Happy Together: Learning and Understanding Appraisal from Natural Language](http://ceur-ws.org/Vol-2328/2_paper_24.pdf). In Proceedings of the 2nd Workshop on Affective Content Analysis (AffCon 2019), Honolulu, USA, January 27, 2019. CEUR-WS.org. **(Best System Paper)**
 
-* Qiu, Y.\*, & **Zhang, C.\***. (2018, September). [Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment](https://arxiv.org/pdf/2001.08371.pdf). IPPTA: Quarterly Journal of Indian Pulp and Paper Technical Association, 30(3), 300-308
+* Qiu, Y.\*, & **Zhang, C.\***. (2018, September). [Wrapper feature selection algorithm for the optimization of an indicator system of patent value assessment](https://arxiv.org/pdf/2001.08371.pdf). IPPTA, 30(3), 300-308
 
 * Qiu, Y.\*, **Zhang, C.\***, & Shuixuan, C. (2017, March). Research of Patent-value Assessment Indicator System Based on Classification and Regression Tree Algorithm. Journal of Xiamen University (Natural Science)(2), 244-251.
 
