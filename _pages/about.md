@@ -28,7 +28,7 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 ## Publications:
 
-* Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2023). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). arXiv preprint arXiv:2304.14402.
+* Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2023). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). arXiv preprint arXiv:2304.14402. [GitHub](https://github.com/mbzuai-nlp/LaMini-LM/)
 
 * Abdul-Mageed, M., **Zhang, C.**, Elmadany, A., Bouamor, H., & Habash, N. (2022). [NADI 2022: The Third Nuanced Arabic Dialect Identification Shared Task](https://aclanthology.org/2022.wanlp-1.9/). In Proceedings of the Seventh Arabic Natural Language Processing Workshop, pages 85–97, Abu Dhabi. ACL. [[Data](https://nadi.dlnlp.ai/2022/)]
 
