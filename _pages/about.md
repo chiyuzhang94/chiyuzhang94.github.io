@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Welcome to my website!
 
-I am currently a fourth-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I am currently a visiting Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. I will join Google as a Research Intern this summer. I interned at [Borealis AI](https://www.borealisai.com/) as a Machine Learning Researcher before. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
+I am currently a fourth-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I am working as a Research Intern at Google this summer. I was a visiting Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. I interned at [Borealis AI](https://www.borealisai.com/) as a Machine Learning Researcher before. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
 
 I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor of Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
 
@@ -28,9 +28,12 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 
 ## Publications:
 
-* **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2022). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). Findings of the Association for Computational Linguistics: ACL 2023. ACL.
+* **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2023). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). Findings of the Association for Computational Linguistics: ACL 2023. ACL.
+
 
 * Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2023). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). arXiv preprint arXiv:2304.14402. [GitHub](https://github.com/mbzuai-nlp/LaMini-LM/)
+
+* **Zhang, C.**, Yan, Q., Meng, L., & Sylvain, T. (2023). What Constitutes Good Contrastive Learning in Time-Series Forecasting?. IJCAI's workshop: AI4TS: AI for time series analysis.
 
 * Abdul-Mageed, M., **Zhang, C.**, Elmadany, A., Bouamor, H., & Habash, N. (2022). [NADI 2022: The Third Nuanced Arabic Dialect Identification Shared Task](https://aclanthology.org/2022.wanlp-1.9/). In Proceedings of the Seventh Arabic Natural Language Processing Workshop, pages 85–97, Abu Dhabi. ACL. [[Data](https://nadi.dlnlp.ai/2022/)]
 
