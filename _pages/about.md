@@ -27,9 +27,9 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 * Principal's Scholarship (2015), Xiamen University of Technology, China.
 
 ## Publications:
+* **Zhang, C.**, Doan, K. D., Liao, Q., & Abdul-Mageed, M. [The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages](). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
 
 * **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2023). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). Findings of the Association for Computational Linguistics: ACL 2023. ACL.
-
 
 * Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2023). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). arXiv preprint arXiv:2304.14402. [GitHub](https://github.com/mbzuai-nlp/LaMini-LM/)
 
