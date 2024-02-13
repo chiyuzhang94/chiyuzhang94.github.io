@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +8,6 @@ redirect_from:
 ---
 # Welcome to my website!
 
-I am currently a fourth-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I am working as a Research Scientist Intern at Meta this Fall. I interned at Google as a Research Intern and at [Borealis AI](https://www.borealisai.com/) as a Machine Learning Researcher before. I was a visiting Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
 I am currently a final-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I previously interned at Meta, Google, and [Borealis AI](https://www.borealisai.com/) before. I also worked as visiting researcher at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
 
 I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor degree in Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
