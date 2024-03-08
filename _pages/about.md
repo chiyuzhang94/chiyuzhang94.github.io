@@ -8,17 +8,18 @@ redirect_from:
 ---
 # Welcome to my website!
 
-I am a final-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I previously interned at Meta, Google, and [Borealis AI](https://www.borealisai.com/). I also worked as visiting researcher at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
+I am a final-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I previously interned at [Meta](https://research.facebook.com/), [Google](https://research.google/), and [Borealis AI](https://www.borealisai.com/). I also worked as visiting researcher at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
 
 I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor degree in Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
 
 ## Awards:
+* Anne and George Piternick Research Award (2024), UBC.
+* Ph.D. Travel Award of School of Information (2019, 2021, and 2023), UBC.
 * Distinguished Teaching (2022), UBC.
 * Tung Graduate Fellowship (2021-2022), UBC.
 * Affiliated Fellowship (2021-2022), UBC.
 * President's Academic Excellence Initiative Ph.D. Award (2020-2023), UBC.
 * Evelyn Markwei Memorial Award (2020-2021), UBC.
-* Ph.D. Travel Award of School of Information (2019 and 2021), UBC.
 * International Tuition Award (2018-2023), UBC.
 * Graduate Scholarship of School of Information (2018-2023), UBC. 
 * Graduate Scholarship (2016-2017), Clarkson University, USA.
@@ -26,11 +27,18 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 * Principal's Scholarship (2015), Xiamen University of Technology, China.
 
 ## Publications:
+* 
+* **Zhang, Chiyu**, Sun, Y., Chen, J., Lei, J., Abdul-Mageed, M., Wang, S., Jin, R., Park, S., Yao, N., \& Long, B. (2024). [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/abs/2402.10555). arXiv 2402.10555. (Under Review)
+
+* **Zhang, Chiyu**, Cai, H., Li, Y., Wu, Y., Hou, L., & Abdul-Mageed, M. (2024). [Distilling Text Style Transfer With Self-Explanation From LLMs](https://arxiv.org/abs/2403.01106). arXiv 2403.01106. (Under Review)
+
+
+* Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2024). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). ACL. [GitHub](https://github.com/mbzuai-nlp/LaMini-LM/)
+
 * **Zhang, C.**, Doan, K. D., Liao, Q., & Abdul-Mageed, M. [The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages](). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
 
 * **Zhang, C.**, Abdul-Mageed, M., & Jawahar, G. (2023). [Contrastive Learning of Sociopragmatic Meaning in Social Media](https://arxiv.org/abs/2203.07648). Findings of the Association for Computational Linguistics: ACL 2023. ACL.
 
-* Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2023). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). arXiv preprint arXiv:2304.14402. [GitHub](https://github.com/mbzuai-nlp/LaMini-LM/)
 
 * **Zhang, C.**, Yan, Q., Meng, L., & Sylvain, T. (2023). [What Constitutes Good Contrastive Learning in Time-Series Forecasting?](https://arxiv.org/abs/2306.12086). IJCAI's workshop: AI4TS: AI for time series analysis.
 
