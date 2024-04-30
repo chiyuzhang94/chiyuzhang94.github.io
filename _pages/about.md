@@ -27,10 +27,9 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 * Principal's Scholarship (2015), Xiamen University of Technology, China.
 
 ## Publications:
-* 
 * **Zhang, Chiyu**, Sun, Y., Chen, J., Lei, J., Abdul-Mageed, M., Wang, S., Jin, R., Park, S., Yao, N., \& Long, B. (2024). [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/abs/2402.10555). arXiv 2402.10555. (Under Review)
 
-* **Zhang, Chiyu**, Cai, H., Li, Y., Wu, Y., Hou, L., & Abdul-Mageed, M. (2024). [Distilling Text Style Transfer With Self-Explanation From LLMs](https://arxiv.org/abs/2403.01106). arXiv 2403.01106. (Under Review)
+* **Zhang, Chiyu**, Cai, H., Li, Y., Wu, Y., Hou, L., & Abdul-Mageed, M. (2024). [Distilling Text Style Transfer With Self-Explanation From LLMs](https://arxiv.org/abs/2403.01106). In Proceedings of NAACL Student Research Workshop (SRW) 2024. 
 
 
 * Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2024). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). ACL. [GitHub](https://github.com/mbzuai-nlp/LaMini-LM/)
