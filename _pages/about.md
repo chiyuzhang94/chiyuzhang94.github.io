@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Welcome to my website!
 
-I am a final-year Ph.D. Candidate at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I previously interned at [Meta](https://research.facebook.com/), [Google](https://research.google/), and [Borealis AI](https://www.borealisai.com/). I also worked as visiting researcher at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
+I obtained my Ph.D. at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I previously interned at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta](https://research.facebook.com/), [Google](https://research.google/), and [Borealis AI](https://www.borealisai.com/). I also worked as visiting researcher at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
 
 I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor degree in Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
 
@@ -27,9 +27,15 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 * Principal's Scholarship (2015), Xiamen University of Technology, China.
 
 ## Publications:
-* **Zhang, Chiyu**, Sun, Y., Chen, J., Lei, J., Abdul-Mageed, M., Wang, S., Jin, R., Park, S., Yao, N., \& Long, B. (2024). [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/abs/2402.10555). arXiv 2402.10555. (Under Review)
+* **Zhang, Chiyu**, Sun, Y., Wu, M., Chen, J., Lei, J., Abdul-Mageed, M., Jin, R., Liu, A., Zhu, J., Park, S., Yao, N., Long, B. (2024). [EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations](https://arxiv.org/pdf/2405.11441). In Proceedings of 18th ACM Conference on Recommender Systems (RecSys '24). ACM.
 
-* **Zhang, Chiyu**, Cai, H., Li, Y., Wu, Y., Hou, L., & Abdul-Mageed, M. (2024). [Distilling Text Style Transfer With Self-Explanation From LLMs](https://arxiv.org/abs/2403.01106). In Proceedings of NAACL Student Research Workshop (SRW) 2024. 
+* Wang, R., Li, H., Wu, M., Wang, Y., Han, X., **Zhang, Chiyu**, Baldwin, T. (2024). [Demystifying Instruction Mixing for Fine-tuning Large Language Models](https://aclanthology.org/2024.acl-srw.15.pdf). In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop). ACL. 
+
+* Abdul-Mageed, M., Keleg, A., Elmadany, A., **Zhang C.**, Hamed, I., Magdy, W., Bouamor, H., Habash, N. (2024). [NADI 2024: The Fifth Nuanced Arabic Dialect Identification Shared Task](https://arxiv.org/pdf/2407.04910). In Proceedings of The Second Arabic Natural Language Processing Conference. ACL. 
+
+* **Zhang, Chiyu**, Sun, Y., Chen, J., Lei, J., Abdul-Mageed, M., Wang, S., Jin, R., Park, S., Yao, N., & Long, B. (2024). [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/abs/2402.10555). arXiv 2402.10555. (Under Review)
+
+* **Zhang, Chiyu**, Cai, H., Li, Y., Wu, Y., Hou, L., & Abdul-Mageed, M. (2024). [Distilling Text Style Transfer With Self-Explanation From LLMs](https://arxiv.org/abs/2403.01106). In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop). ACL. 
 
 
 * Wu, M., Waheed, A., **Zhang, C.**, Abdul-Mageed, M., & Aji, A. F. (2024). [LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions](https://arxiv.org/abs/2304.14402). In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). ACL. [GitHub](https://github.com/mbzuai-nlp/LaMini-LM/)
