@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chiyu Zhang"
   avatar           : "profile.JPG"
-  bio              : "Ph.D. Candidate, Teaching & Research Assistant"
+  bio              : "Ph.D., NLP, Deep Learning"
   location         : "Vancouver, Canada"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=oEGK73YAAAAJ"
-  email            : "chiyuzh@mail.ubc.ca"
+  email            : "zcy94@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Resume           : "https://github.com/chiyuzhang94/chiyuzhang94.github.io/files/chiyu_resume.pdf"
+  Resume           : 
 
 
 # Reading Files
