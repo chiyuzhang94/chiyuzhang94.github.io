@@ -8,9 +8,9 @@ redirect_from:
 ---
 # Welcome to my website!
 
-I obtained my Ph.D. at [School of Information](https://ischool.ubc.ca/), University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I previously interned at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta](https://research.facebook.com/), [Google](https://research.google/), and [Borealis AI](https://www.borealisai.com/). I also worked as visiting researcher at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. Here is my [résumé](https://chiyuzhang94.github.io/files/chiyu_resume.pdf). 
+I obtained my Ph.D. from the University of British Columbia, Canada. My superviser is [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research focuses on natural language processing, deep learning, and social media mining. I previously interned at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta](https://research.facebook.com/), [Google](https://research.google/), and [Borealis AI](https://www.borealisai.com/). I also worked as visiting researcher at [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi. 
 
-I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic), and received my Bachelor degree in Information Systems (Honours) from [Xiamen University of Technology](http://english.xmut.edu.cn/) under the supervision of [Dr. Yihui Qiu](https://jgxy.xmut.edu.cn/info/1061/4290.htm). 
+I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.clarkson.edu/) under the supervison of [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic).
 
 ## Awards:
 * Anne and George Piternick Research Award (2024), UBC.
@@ -23,8 +23,6 @@ I obtained my M.Sc. degree of Data Science at [Clarkson University](https://www.
 * International Tuition Award (2018-2023), UBC.
 * Graduate Scholarship of School of Information (2018-2023), UBC. 
 * Graduate Scholarship (2016-2017), Clarkson University, USA.
-* Honours with high distinction (2016), Xiamen University of Technology, China.
-* Principal's Scholarship (2015), Xiamen University of Technology, China.
 
 ## Publications:
 * **Zhang, Chiyu**, Sun, Y., Wu, M., Chen, J., Lei, J., Abdul-Mageed, M., Jin, R., Liu, A., Zhu, J., Park, S., Yao, N., Long, B. (2024). [EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations](https://arxiv.org/pdf/2405.11441). In Proceedings of 18th ACM Conference on Recommender Systems (RecSys '24). ACM.
