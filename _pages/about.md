@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Welcome to my website!
 
-I am working as Research Scientist at Meta Platforms. I completed my Ph.D. at the University of British Columbia, Canada, under the supervision of [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research specializes in natural language processing, deep learning, and social media mining. I have had the privilege of interning at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta](https://research.facebook.com/), [Google](https://research.google/), and [Borealis AI](https://www.borealisai.com/). Additionally, I was a visiting researcher at [MBZUAI](https://mbzuai.ac.ae/) in Abu Dhabi. I earned my M.Sc. in Data Science at [Clarkson University](https://www.clarkson.edu/), where I was advised by [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic).
+I am a Research Scientist at [Meta](https://research.facebook.com/). I completed my Ph.D. at the University of British Columbia, Canada, under the supervision of [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research specializes in natural language processing, deep learning, and social media mining. I have had the privilege of interning at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta](https://research.facebook.com/), [Google](https://research.google/), and [Borealis AI](https://www.borealisai.com/). Additionally, I was a visiting researcher at [MBZUAI](https://mbzuai.ac.ae/) in Abu Dhabi. I earned my M.Sc. in Data Science at [Clarkson University](https://www.clarkson.edu/), where I was advised by [Dr. Boris Jukic](https://www.clarkson.edu/people/boris-jukic).
 
 ## Awards:
 * Anne and George Piternick Research Award (2024), UBC.
